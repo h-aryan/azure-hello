@@ -6,7 +6,6 @@
 pip install -r requirements.txt
 python app.py
 ```
-Visit http://localhost:8080
 
 ## Deploy to Azure
 
